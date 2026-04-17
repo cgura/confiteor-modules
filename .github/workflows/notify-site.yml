@@ -7,4 +7,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Trigger Netlify build
-        run: curl --fail -s -o /dev/null -X POST -d '' "${{ secrets.NETLIFY_BUILD_HOOK }}"
+        run: curl --fail -sS -o /dev/null -X POST -d '' "${{ secrets.NETLIFY_BUILD_HOOK }}"
