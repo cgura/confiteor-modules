@@ -6,7 +6,7 @@ description: A daily Ignatian-style self-examination in five points (thanksgivin
 color: #C2185B  
 ---
 
-#  Thanksgiving (I failed to respond with gratitude)
+# Thanksgiving (I failed to respond with gratitude)
 - **Category:** IGNATIAN_EXAMEN  
 - **Framework:** THANKSGIVING  
 - **Description:** I review the day and consider God’s gifts, then honestly ask where I failed to respond with gratitude.   
