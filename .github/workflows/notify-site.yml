@@ -2,6 +2,8 @@ name: Notify website on module merge
 on:
   push:
     branches: [main]
+    paths:
+      - 'library/**'
 jobs:
   rebuild:
     runs-on: ubuntu-latest
