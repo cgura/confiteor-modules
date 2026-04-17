@@ -1,0 +1,32 @@
+{
+  "producer": "Your Name or Organization",
+  "name": "My Custom Examination",
+  "version": "1.0.0",
+  "description": "A brief description of this examination module.",
+  "color": "#7E57C2",
+  "sections": [
+    {
+      "name": "Section Title",
+      "category": "CUSTOM",
+      "framework": "CUSTOM",
+      "scripture": "\"Scripture reference here.\" (Book Chapter:Verse)",
+      "description": "A brief description of what this section examines.",
+      "questions": [
+        {
+          "text": "Question text here — phrased as a yes/no question.",
+          "confessionText": "Confession text here — phrased as an \"I\" statement."
+        },
+        {
+          "text": "Another question that only applies to married people.",
+          "confessionText": "Confession text for this question.",
+          "applicableTo": ["MARRIED"]
+        },
+        {
+          "text": "A question that applies to parents.",
+          "confessionText": "Confession text for this question.",
+          "applicableTo": ["PARENT"]
+        }
+      ]
+    }
+  ]
+}

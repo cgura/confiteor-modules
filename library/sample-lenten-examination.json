@@ -1,0 +1,140 @@
+{
+  "producer": "Sample Producer",
+  "name": "Sample Lenten Examination",
+  "version": "1.0.0",
+  "description": "A sample module demonstrating the JSON format for Confiteor examen modules.",
+  "color": "#26A69A",
+  "sections": [
+    {
+      "name": "First Commandment",
+      "category": "TEN_COMMANDMENTS",
+      "framework": "TEN_COMMANDMENTS",
+      "scripture": "\"You shall love the Lord your God with all your heart.\" (Mt 22:37)",
+      "description": "Examine how you have loved God above all things.",
+      "questions": [
+        {
+          "text": "Have you neglected your morning or evening prayers without good reason?",
+          "confessionText": "I neglected my prayers without good reason."
+        },
+        {
+          "text": "Have you doubted the faith, or sought out content contrary to Catholic teaching out of curiosity rather than to understand and refute it?",
+          "confessionText": "I entertained doubts about the faith or sought content contrary to Catholic teaching."
+        },
+        {
+          "text": "Have you placed excessive trust in fortune-telling, horoscopes, or superstitions?",
+          "confessionText": "I placed trust in fortune-telling, horoscopes, or superstition."
+        },
+        {
+          "text": "Have you received Holy Communion while in a state of mortal sin?",
+          "confessionText": "I received Holy Communion while knowingly in a state of mortal sin."
+        }
+      ]
+    },
+    {
+      "name": "Second Commandment",
+      "category": "TEN_COMMANDMENTS",
+      "framework": "TEN_COMMANDMENTS",
+      "scripture": "\"You shall not take the name of the Lord your God in vain.\" (Ex 20:7)",
+      "description": "Examine your reverence for the name of God and holy things.",
+      "questions": [
+        {
+          "text": "Have you used God's name carelessly, as an exclamation, or in anger?",
+          "confessionText": "I used God's name carelessly or in anger."
+        },
+        {
+          "text": "Have you spoken disrespectfully about sacred persons, places, or things?",
+          "confessionText": "I spoke disrespectfully about sacred persons, places, or things."
+        },
+        {
+          "text": "Have you broken an oath or promise made in God's name?",
+          "confessionText": "I broke an oath or a promise made in God's name."
+        }
+      ]
+    },
+    {
+      "name": "Precepts of the Church",
+      "category": "PRECEPTS_OF_THE_CHURCH",
+      "framework": "PRECEPTS",
+      "scripture": "\"Whoever listens to you, listens to me.\" (Lk 10:16)",
+      "description": "Examine your faithfulness to the duties the Church places on all the faithful.",
+      "questions": [
+        {
+          "text": "Have you missed Mass on a Sunday or Holy Day of Obligation without a serious reason?",
+          "confessionText": "I missed Mass on a Sunday or Holy Day of Obligation without a serious reason."
+        },
+        {
+          "text": "Have you failed to fast or abstain on the days prescribed by the Church?",
+          "confessionText": "I failed to observe the Church's fast or abstinence."
+        },
+        {
+          "text": "Have you gone at least one year without receiving the sacrament of Confession?",
+          "confessionText": "I went more than a year without going to Confession."
+        }
+      ]
+    },
+    {
+      "name": "Duties of Your State in Life — Married",
+      "category": "STATE_IN_LIFE",
+      "framework": "DUTIES_OF_STATE",
+      "scripture": "\"Love one another as I have loved you.\" (Jn 15:12)",
+      "description": "Examine how you have lived out your vocation as a married person.",
+      "questions": [
+        {
+          "text": "Have you been faithful to your spouse in thought, word, and deed?",
+          "confessionText": "I was unfaithful to my spouse in thought, word, or deed.",
+          "applicableTo": ["MARRIED"]
+        },
+        {
+          "text": "Have you been patient, kind, and attentive to the needs of your spouse and children?",
+          "confessionText": "I was impatient, unkind, or inattentive to my spouse and children.",
+          "applicableTo": ["MARRIED", "PARENT"]
+        },
+        {
+          "text": "Have you neglected to pray with your family or to provide for their spiritual formation?",
+          "confessionText": "I neglected to pray with my family or to provide for their spiritual formation.",
+          "applicableTo": ["PARENT"]
+        }
+      ]
+    },
+    {
+      "name": "Duties of Your State in Life — Single Adults",
+      "category": "STATE_IN_LIFE",
+      "framework": "DUTIES_OF_STATE",
+      "scripture": "\"I say to the unmarried and to widows: it is good for them to remain as I am.\" (1 Cor 7:8)",
+      "description": "Examine how you have lived your vocation as a single person.",
+      "questions": [
+        {
+          "text": "Have you used your freedom as a single person for good works, service, or growth in virtue?",
+          "confessionText": "I have not made good use of the freedom of my single state for service or growth in virtue.",
+          "applicableTo": ["SINGLE_ADULT"]
+        },
+        {
+          "text": "Have you maintained appropriate boundaries in friendships and relationships?",
+          "confessionText": "I failed to maintain appropriate boundaries in my friendships or relationships.",
+          "applicableTo": ["SINGLE_ADULT", "ADOLESCENT_YOUNG_ADULT"]
+        }
+      ]
+    },
+    {
+      "name": "Seven Capital Sins — Pride",
+      "category": "SEVEN_CAPITAL_SINS",
+      "framework": "CAPITAL_SINS",
+      "scripture": "\"Pride goes before destruction.\" (Prov 16:18)",
+      "description": "Examine how pride has manifested in your life.",
+      "questions": [
+        {
+          "text": "Have you boasted of your accomplishments in order to impress others or put them down?",
+          "confessionText": "I boasted of my accomplishments to impress others or put them down."
+        },
+        {
+          "text": "Have you refused to acknowledge your faults, or been unwilling to accept correction?",
+          "confessionText": "I refused to acknowledge my faults or rejected correction."
+        },
+        {
+          "text": "Have you thought yourself better than others because of your faith, abilities, or status?",
+          "confessionText": "I thought myself better than others because of my faith, abilities, or status."
+        }
+      ]
+    }
+  ]
+}

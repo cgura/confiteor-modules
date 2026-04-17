@@ -1,0 +1,8 @@
+{
+  "name": "Sample Lenten Examination",
+  "producer": "Sample Producer",
+  "description": "A sample module demonstrating the module format for Confiteor examen modules. Covers the Ten Commandments, Precepts of the Church, Duties of State in Life, and Capital Sins.",
+  "version": "1.0.0",
+  "mdUrl": "/modules/library/sample-lenten-examination.md",
+  "jsonUrl": "/modules/library/sample-lenten-examination.json"
+}
