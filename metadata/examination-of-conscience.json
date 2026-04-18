@@ -1,0 +1,8 @@
+{
+  "name": "Examination of Conscience",
+  "producer": "Confiteor",
+  "description": "A standard examination of conscience organized by the Ten Commandments, Precepts of the Church, and duties of one's state in life.",
+  "version": "1.0.0",
+  "mdUrl": "https://raw.githubusercontent.com/cgura/confiteor-modules/main/library/examination-of-conscience.md",
+  "jsonUrl": ""
+}
