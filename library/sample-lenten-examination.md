@@ -3,7 +3,7 @@ producer: Sample Producer
 name: Sample Lenten Examination
 version: 1.0.0
 description: A sample module demonstrating the Markdown format for Confiteor examen modules.
-color: #7E57C2
+color: #26A69A
 ---
 
 # First Commandment
@@ -18,7 +18,7 @@ Have you neglected your morning or evening prayers without good reason?
 > I neglected my prayers without good reason.
 
 ### 2
-Have you doubted the faith, or sought out content that was contrary to Catholic teaching out of curiosity rather than to understand and refute it?
+Have you doubted the faith, or sought out content contrary to Catholic teaching out of curiosity rather than to understand and refute it?
 > I entertained doubts about the faith or sought content contrary to Catholic teaching.
 
 ### 3

@@ -1,0 +1,12 @@
+name: Notify website on module merge
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'library/**'
+jobs:
+  rebuild:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Netlify build
+        run: curl --fail -sS -o /dev/null -X POST -d '' "${{ secrets.NETLIFY_BUILD_HOOK }}"
