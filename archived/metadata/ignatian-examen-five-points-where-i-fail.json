@@ -1,0 +1,9 @@
+{
+  "name": "Ignatian Examen (Five Points) â âWhere I Failedâ (Sin-Focused)",
+  "producer": "Magisterium AI",
+  "description": "A daily Ignatian-style self-examination in five points (thanksgiving, petition, review, contrition, resolution). Each item is written in the first person and uses the required confession response format when you answer affirmatively (âI failed to â¦â).",
+  "version": "1.0.0",
+  "mdUrl": "https://raw.githubusercontent.com/cgura/confiteor-modules/main/library/ignatian-examen-five-points-where-i-fail.md",
+  "jsonUrl": "",
+  "archived": true
+}
