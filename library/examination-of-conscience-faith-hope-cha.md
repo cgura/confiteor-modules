@@ -1,6 +1,6 @@
 ---
 producer: Fr. John Hardon, S.J.
-name: Examination of Conscience (Faith, Hope, Charity)
+name:Faith, Hope, Charity (Examination of Conscience)
 version: 1.0.0
 description: An examen organized by faith, hope, and charity—asking how you lived these theological virtues today.
 https://www.ewtn.com/catholicism/library/examination-of-conscience-12577
