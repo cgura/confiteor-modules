@@ -5,6 +5,7 @@ version: 1.0.0
 description: An examen organized by faith, hope, and charity—asking how you lived these theological virtues today.
 https://www.ewtn.com/catholicism/library/examination-of-conscience-12577
 color: #2E7D32
+sourceUrl: https://www.ewtn.com/catholicism/library/examination-of-conscience-12577
 ---
 
 # Faith
