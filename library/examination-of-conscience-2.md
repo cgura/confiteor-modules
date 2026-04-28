@@ -3,6 +3,7 @@ producer: Fathers of Mercy
 name: Examination of Conscience
 version: 1.0.0
 description: This Examination of Conscience is a comprehensive guide for adults and teens, created by the Fathers of Mercy, a congregation dedicated to bringing the mercy of God to all. It is rooted in Catholic teachings and organized around key principles such as the Ten Commandments, the Beatitudes, the Precepts of the Church, and the Seven Capital Sins. The guide includes reflective questions to help individuals prepare for the Sacrament of Confession, prayers for guidance, and instructions on how to go to Confession. Approved by Very Rev. David M. Wilton, CPM, Superior General of the Fathers of Mercy, on February 11, 2020, the Feast of Our Lady of Lourdes, this resource emphasizes the importance of faith, repentance, and spiritual growth. For more information, visit www.fathersofmercy.com.
+sourceUrl: https://fathersofmercy.com/fathers-of-mercy-examinations/
 color: #5C6BC0
 ---
 
