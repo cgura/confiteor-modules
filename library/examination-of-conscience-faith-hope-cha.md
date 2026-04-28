@@ -2,8 +2,7 @@
 producer: Fr. John Hardon, S.J.
 name:Faith, Hope, Charity (Examination of Conscience)
 version: 1.0.0
-description: An examen organized by faith, hope, and charity—asking how you lived these theological virtues today.
-https://www.ewtn.com/catholicism/library/examination-of-conscience-12577
+description: This prayerful examination of conscience helps you review the day in the light of God’s commandments, recalling your sins and omissions since your last worthy confession.    Before you begin, ask God to give you light to know your sins and grace to detest them, and then look at the day with honesty and trust in His mercy.   It also helps you recognize God’s care within events and find inner peace as you turn back to Him.
 color: #2E7D32
 sourceUrl: https://www.ewtn.com/catholicism/library/examination-of-conscience-12577
 ---
