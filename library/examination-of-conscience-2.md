@@ -1,7 +1,7 @@
 ---
 producer: Fathers of Mercy
 name: Fathers of Mercy Conscience Examinations
-version: 2.0.0
+version: 2.1.0
 description: This Examination of Conscience is a comprehensive guide for adults and teens, created by the Fathers of Mercy, a congregation dedicated to bringing the mercy of God to all. It is rooted in Catholic teachings and organized around key principles such as the Ten Commandments, the Beatitudes, the Precepts of the Church, and the Seven Capital Sins. The guide includes reflective questions to help individuals prepare for the Sacrament of Confession, prayers for guidance, and instructions on how to go to Confession. Approved by Very Rev. David M. Wilton, CPM, Superior General of the Fathers of Mercy, on February 11, 2020, the Feast of Our Lady of Lourdes, this resource emphasizes the importance of faith, repentance, and spiritual growth. For more information, visit www.fathersofmercy.com.
 color: #5C6BC0
 sourceUrl: https://fathersofmercy.com/fathers-of-mercy-examinations/
@@ -155,8 +155,8 @@ Have I given bad example, abused drugs, drank alcohol to excess, fought, or quar
 > I gave bad example, abused drugs, drank alcohol to excess, fought, or quarreled.
 
 ### 11
-Have I physically injured or killed anyone?
-> I physically injured or killed someone.
+Have I physically injured anyone?
+> I physically injured someone.
 
 ### 12
 Have I had an abortion, or advised or supported an abortion?
@@ -185,6 +185,10 @@ Have I failed to keep secrets that I should have kept?
 ### 18
 Have I forgiven those who have hurt or harmed me or my loved ones?
 > I failed to forgive those who hurt or harmed me or my loved ones.
+
+### 19
+Have I killed anyone?
+> I have killed someone.
 
 # Purity and Marriage
 
@@ -216,28 +220,40 @@ Have I deliberately read or sent impure material?
 > I deliberately read or sent impure material.
 
 ### 7
-Have I performed impure acts by myself (masturbation) or with another (adultery, fornication, or sodomy)?
-> I performed impure acts by myself or with another.
-
-### 8
 Have I married or advised another to marry outside of the Church?
 > I married or advised another to marry outside of the Church.
 
-### 9
+### 8
 Have I abused my marriage rights?
 > I abused my marriage rights.
 
-### 10
+### 9
 Was I unfaithful to my marriage vows?
 > I was unfaithful to my marriage vows.
 
-### 11
+### 10
 Have I kept company with someone else’s spouse?
 > I kept company with someone else’s spouse.
 
-### 12
+### 11
 Have I practiced artificial birth control or was I or my spouse permanently sterilized (tubal ligation or vasectomy)?
 > I practiced artificial birth control or was permanently sterilized.
+
+### 12
+Have I committed masturbation?
+> I masturbated.
+
+### 13
+Have I committed adultery?
+> I committed adultery.
+
+### 14
+Have I committed fornication?
+> I committed fornication
+
+### 15
+Have I committed sodomy?
+> I committed sodomy
 
 # Honesty and Integrity
 
