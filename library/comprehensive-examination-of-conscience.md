@@ -1,7 +1,7 @@
 ---
-producer: Confiteor
+producer: Rev. Donald F. Miller, C.SS.R.
 name: Monthly Virtue Examen (Adults)
-version: 2.0.1
+version: 3.0.0
 monthlyExamen: true
 description: Based on "Examination of Conscience for Adults" by Rev. Donald F. Miller, C.SS.R. Organized by twelve virtues for the twelve months of the year. This work is in the public domain.
 color: #26A69A
