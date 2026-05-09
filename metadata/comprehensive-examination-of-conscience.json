@@ -2,7 +2,7 @@
   "name": "Monthly Virtue Examen (Adults)",
   "producer": "Confiteor",
   "description": "Based on \"Examination of Conscience for Adults\" by Rev. Donald F. Miller, C.SS.R. Organized by twelve virtues for the twelve months of the year. This work is in the public domain.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "mdUrl": "https://raw.githubusercontent.com/cgura/confiteor-modules/main/library/comprehensive-examination-of-conscience.md",
   "jsonUrl": ""
 }
