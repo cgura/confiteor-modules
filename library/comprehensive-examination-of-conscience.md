@@ -1,7 +1,8 @@
 ---
 producer: Confiteor
 name: Monthly Virtue Examen (Adults)
-version: 2.0.0
+version: 2.0.1
+monthlyExamen: true
 description: Based on "Examination of Conscience for Adults" by Rev. Donald F. Miller, C.SS.R. Organized by twelve virtues for the twelve months of the year. This work is in the public domain.
 color: #26A69A
 ---
@@ -10,6 +11,8 @@ color: #26A69A
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 1
 - **Description:** Focuses on trusting God and believing His word, while avoiding superstition or despair. (CCC, 1840)
 
 ### 1
@@ -77,6 +80,8 @@ Have I, without the necessary permission, sent my children to a non-Catholic sch
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 1
 - **Description:** Focuses on trusting God and believing His word, while avoiding superstition or despair. (CCC, 1840)
 
 ### 1
@@ -111,6 +116,8 @@ Have I accepted the will of God and believed firmly in His providence in the sor
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 2
 - **Description:** Focuses on trusting that God will help you, forgive you, and lead you to eternal life. (CCC, 1840)
 
 ### 1
@@ -161,6 +168,8 @@ Have I quit praying because of the thought that it does no good?
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 2
 - **Description:** Focuses on trusting that God will help you, forgive you, and lead you to eternal life. (CCC, 1840)
 
 ### 1
@@ -195,6 +204,8 @@ Have I stopped praying when it was hard or didn’t feel “good” or inviting?
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 3
 - **Description:** Focuses on loving God above all things, and choosing what is right because God is worthy. (CCC, 1827)
 
 ### 1
@@ -246,6 +257,8 @@ Have I deliberately mocked or made fun of the Sacraments, the Mass, or any litur
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 3
 - **Description:** Focuses on loving God above all things, and choosing what is right because God is worthy. (CCC, 1827)
 
 ### 1
@@ -276,6 +289,8 @@ Have I never shown my love of God by means of gratitude for the many favors He h
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 4
 - **Description:** Focuses on honoring God’s name, worship, and holy things with deep respect. (CCC, 2095)
 
 ### 1
@@ -315,6 +330,8 @@ Have I blasphemed, cursed, or sworn falsely before or to my children?
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 4
 - **Description:** Focuses on honoring God’s name, worship, and holy things with deep respect. (CCC, 2095)
 
 ### 1
@@ -338,6 +355,8 @@ Have I failed to correct a child who spoke using irreverent or profane language?
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 5
 - **Description:** Focuses on doing good to others and treating them with kindness and fairness. (CCC, 1805)
 
 ### 1
@@ -373,6 +392,8 @@ When I was guilty of wronging my neighbor, have I refused to show sorrow or seek
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 5
 - **Description:** Focuses on doing good to others and treating them with kindness and fairness. (CCC, 1805)
 
 ### 1
@@ -395,6 +416,8 @@ Have I permitted gossip and petty tale-bearing to go on in my presence without a
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 6
 - **Description:** Focuses on avoiding words or actions that hurt others or lead them into sin.
 
 ### 1
@@ -437,6 +460,8 @@ Have I cooperated with another in the commission of a mortal sin?
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 6
 - **Description:** Focuses on avoiding words or actions that hurt others or lead them into sin.
 
 ### 1
@@ -463,6 +488,8 @@ Have I led others into venial sin by suggestion or bad example?
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 7
 - **Description:** Focuses on giving others what you owe them—respecting rights and living with fairness. (CCC, 1805)
 
 ### 1
@@ -497,6 +524,8 @@ Have I cheated my employer by seriously neglecting the work I was hired to do?
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 7
 - **Description:** Focuses on giving others what you owe them—respecting rights and living with fairness. (CCC, 1805)
 
 ### 1
@@ -519,6 +548,8 @@ Have I been guilty of petty cheating in games or transactions?
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 8
 - **Description:** Focuses on purity of heart and self-control in thoughts, words, and actions. (CCC, 1804)
 
 ### 1
@@ -580,6 +611,8 @@ Have I failed to correct or train my children in regard to chastity when it was 
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 8
 - **Description:** Focuses on purity of heart and self-control in thoughts, words, and actions. (CCC, 1804)
 
 ### 1
@@ -602,6 +635,8 @@ Did I ignore or go along with impulses and daydreams that led me away from what 
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 9
 - **Description:** Focuses on self-mastery—keeping desires and pleasures in the right limits. (CCC, 1805)
 
 ### 1
@@ -628,6 +663,8 @@ Have I used drugs or narcotics not under a doctor’s orders, or in a way that c
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 9
 - **Description:** Focuses on self-mastery—keeping desires and pleasures in the right limits. (CCC, 1805)
 
 ### 1
@@ -650,6 +687,8 @@ Have I spent more money on alcohol than I could really afford?
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 10
 - **Description:** Focuses on doing God’s will and following legitimate authority, especially when it is difficult.
 
 ### 1
@@ -693,6 +732,8 @@ Have I failed to forbid my children from entering serious occasions of sin?
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 10
 - **Description:** Focuses on doing God’s will and following legitimate authority, especially when it is difficult.
 
 ### 1
@@ -723,6 +764,8 @@ Have I, as a citizen, disregarded laws made for the safety and well-being of all
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 11
 - **Description:** Focuses on patience and gentleness—responding calmly instead of getting angry or bitter.
 
 ### 1
@@ -749,6 +792,8 @@ Have I refused to forgive others who had wronged me and asked for forgiveness?
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 11
 - **Description:** Focuses on patience and gentleness—responding calmly instead of getting angry or bitter.
 
 ### 1
@@ -775,6 +820,8 @@ Have I teased others until I made them angry?
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 12
 - **Description:** Focuses on truth about yourself before God—avoiding pride and accepting correction.
 
 ### 1
@@ -813,6 +860,8 @@ Have I maintained that it is unnecessary for a person to pray?
 
 - **Category:** COMPREHENSIVE_VIRTUES
 - **Framework:** TEN_COMMANDMENTS
+- **Examination Type:** COMPREHENSIVE
+- **Month:** 12
 - **Description:** Focuses on truth about yourself before God—avoiding pride and accepting correction.
 
 ### 1
