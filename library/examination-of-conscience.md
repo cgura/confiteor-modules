@@ -1,7 +1,7 @@
 ---
 producer: Magisterium.com
 name: Standard Examination
-version: 3.0.0
+version: 3.0.1
 description: A calm, sincere check of your life before God, so you can come to confession with clarity, repentance, and a desire to change.
 color: #5C6BC0
 ---
@@ -33,7 +33,7 @@ I have not been honest about my faith (or I refused to change when I knew I shou
 - **Description:** Keeping holy time for the Lord through worship and rest.
 
 ### 1
-I missed Mass on Sunday/Holy Days **without a serious reason**.
+I missed Mass on Sunday/Holy Days without a serious reason.
 > I missed Mass without a serious reason.
 
 # Truth and trust
@@ -115,7 +115,7 @@ I neglected confession/communion when I should have.
 - **Description:** Making sure repentance is real—truth, sorrow, intention to change, and confession of grave sins.
 
 ### 1
-I can say: **“I have sinned”** (not only “sin exists”).
+I can say: “I have sinned” (not only “sin exists”).
 > I have sinned; I’m responsible.
 
 ### 2
@@ -123,5 +123,5 @@ I have **real sorrow** and a **real intention to change** (not just regret).
 > I reject the sin and resolve not to return to it.
 
 ### 3
-I will confess the **grave (mortal) sins** I remember that I have not yet confessed before.
+I will confess the grave (mortal) sins I remember that I have not yet confessed before.
 > I will confess my unconfessed grave sins.
