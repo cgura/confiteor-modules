@@ -1,7 +1,7 @@
 ---
 producer: Magisterium.com
 name: Standard Examination
-version: 3.0.1
+version: 3.0.2
 description: A calm, sincere check of your life before God, so you can come to confession with clarity, repentance, and a desire to change.
 color: #5C6BC0
 ---
@@ -119,7 +119,7 @@ I can say: “I have sinned” (not only “sin exists”).
 > I have sinned; I’m responsible.
 
 ### 2
-I have **real sorrow** and a **real intention to change** (not just regret).
+I have real sorrow and a real intention to change (not just regret).
 > I reject the sin and resolve not to return to it.
 
 ### 3
