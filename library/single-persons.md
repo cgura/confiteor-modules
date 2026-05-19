@@ -1,7 +1,7 @@
 ---
 producer: Fr. Thomas Weinandy
 name: Single Persons
-version: 1.0.2
+version: 1.0.3
 description: This examination of conscience is meant to help you prepare for the Sacrament of Reconciliation by reviewing your thoughts, words, and actions in the light of the Word of God, so you can recognize sin and seek amendment. It emphasizes that reconciliation and penance are gifts of God that heal division caused by sin and bring you back to peace through personal conversion.
 color: #0B7285
 sourceUrl: https://www.usccb.org/prayer-and-worship/sacraments-and-sacramentals/penance/examination-of-conscience-for-single-people
@@ -71,8 +71,8 @@ Have I not forgiven the Church or Church authorities?
 
 # Responsibilities to others and to myself
 
-- **Category:** CUSTOM
-- **Framework:** CUSTOM
+- **Category:** CONFESSION_PREP
+- **Framework:** TEN_COMMANDMENTS
 - **Description:** The examination asks whether you have lived justly and truthfully with others, resisted anger and hatred, and protected chastity and purity of mind, speech, and actions.
 
 ### 1
@@ -149,8 +149,8 @@ Have I mocked or made fun of others?
 
 # Responsibilities to society
 
-- **Category:** CUSTOM
-- **Framework:** CUSTOM
+- **Category:** CONFESSION_PREP
+- **Framework:** TEN_COMMANDMENTS
 - **Description:** The examination considers whether your life has been a witness to the Gospel through justice, charity to the needy, fulfillment of civic duties, and rejection of prejudice and hatred.
 
 ### 1
