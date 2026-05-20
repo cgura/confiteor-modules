@@ -1,7 +1,7 @@
 ---
 producer: Fr. Thomas Weinandy
 name: For Children
-version: 3.0.0
+version: 3.0.1
 description: Jesus welcomes children and teaches that “the kingdom of heaven belongs” to them (Mt 19:14), and even as a child he “grew and became strong, filled with wisdom; and the favor of God was upon him” (Lk 2:40).     An examination of conscience is a review of your past thoughts, words, and actions to see if they match God’s moral law, so you can bring your sins to Jesus and prepare well for Confession.
 color: #FFB74D
 sourceUrl: https://www.usccb.org/prayer-and-worship/sacraments-and-sacramentals/penance/sacrament-reconciliation-children-examination-conscience
@@ -200,5 +200,5 @@ Have I wanted things that belong to others?
 > I wanted things that belong to others.
 
 ### 2
-Have I been thankful for what God has given me?
+Have I not been thankful for what God has given me?
 > I was not thankful for what God has given me.
