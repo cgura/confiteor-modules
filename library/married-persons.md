@@ -1,7 +1,7 @@
 ---
 producer: Fr. Thomas Weinandy
 name: Married Persons
-version: 1.0.7
+version: 1.0.8
 description: Christian marriage, grounded in the sacrament of matrimony, reconstitutes the family in the unity won by Christ and enables spouses and parents to build up the Church as a “Church in miniature,” sharing Christ’s saving mission. As a believing community rooted in Baptism and strengthened by the grace of the sacrament of marriage, the Christian family evangelizes by transmitting the Gospel in everyday life—especially through education, prayer, and forming children to follow Christ.
 color: #4B0082
 sourceUrl: https://www.usccb.org/prayer-and-worship/sacraments-and-sacramentals/penance/sacrament-reconciliation-married-persons-examination-of-conscience
@@ -100,12 +100,12 @@ Have I not listened to my spouse?
 > I have not listened to my spouse.
 
 ### 7
-Have I not paid attention to his or her concerns, worries, and problems?
-> I have not paid attention to his or her concerns, worries, and problems.
+Have I not paid attention to my spouse's concerns, worries, and problems?
+> I have not paid attention to my spouse's concerns, worries, and problems.
 
 ### 8
-Have I not sought out his or her concerns, worries, and problems?
-> I have not sought out his or her concerns, worries, and problems.
+Have I not sought out my spouse's concerns, worries, and problems?
+> I have not sought out my spouse's concerns, worries, and problems.
 
 ### 9
 Have I allowed resentments and bitterness toward my spouse to take root in my mind?
