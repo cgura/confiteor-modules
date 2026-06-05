@@ -1,113 +1,101 @@
 ---
-producer: Magisterium AI
-name: Ignatian Examen (Five Points)
-version: 2.0.0
-description: A daily Ignatian-style self-examination in five points (thanksgiving, petition, review, contrition, resolution). Each item is written in the first person and uses the required confession response format when you answer affirmatively (“I failed to …”).
+producer: Magisterium
+name: Ignatian Daily Examen (Five Points)
+version: 3.1.2
+description: A daily Ignatian-style self-examination in five points (thanksgiving, petition, review, contrition/pardon, resolution). Each item is written in the first person and uses the required confession response format when you answer affirmatively (“I failed to …”).
 color: #C2185B
 ---
 
-# Thanksgiving (I failed to respond with gratitude)
+# Thanksgiving (Thank God)
 
 - **Category:** IGNATIAN_EXAMEN
 - **Framework:** THANKSGIVING
-- **Description:** I review the day and consider God’s gifts, then honestly ask where I failed to respond with gratitude.
+- **Description:** I thank God for the good things He gave me today. This helps my heart stay grateful while I review my day.
 
 ### 1
-- Have I failed to recognize God’s presence and benefits in the day?
-> I failed to recognize God’s presence and benefits in the day.
+- Have I failed to give thanks to God for the benefits I received today?
+> I failed to give thanks to God for the benefits I received today.
 
 ### 2
-- Have I failed to give thanks even for moments that should have turned my heart toward God?
-> I failed to give thanks even for moments that should have turned my heart toward God.
+- Have I failed to recognize how God was acting in my day through ordinary moments and opportunities for the good?
+> I failed to recognize how God was acting in my day through ordinary moments and opportunities for the good.
 
 ### 3
-- Have I failed to acknowledge grace that restrained me from worse sin or gave me an opportunity to choose the good?
-> I failed to acknowledge grace that restrained me from worse sin or gave me an opportunity to choose the good.
+- Have I failed to let gratitude shape my attitude toward my faults, instead of letting frustration or excuses take over?
+> I failed to let gratitude shape my attitude toward my faults, instead of letting frustration or excuses take over.
 
-# Petition (I failed to ask for light)
+# Petition (Ask God for Light)
 
 - **Category:** IGNATIAN_EXAMEN
 - **Framework:** PETITION_FOR_LIGHT
-- **Description:** I ask God for interior clarity—so I may see my faults truly and not excuse myself.
+- **Description:** I ask God to help me see my sins clearly and turn away from them.
 
 ### 1
-- Have I failed to ask for the grace to know my real faults clearly?
-> I failed to ask for the grace to know my real faults clearly.
+Have I failed to ask God for the grace to know my sins clearly, including anything I need to confess at my next Confession?
+> I failed to ask God for the grace to know my sins clearly, including anything I need to confess at my next Confession.
 
 ### 2
-- Have I failed to reject self-justifications and instead sought God’s truth about what I actually consented to?
-> I failed to reject self-justifications and sought God’s truth about what I actually consented to.
+Have I failed to ask God for the grace to turn away from what is sinful and harmful in me?
+> I failed to ask God for the grace to turn away from what is sinful and harmful in me.
 
 ### 3
-- Have I failed to ask for the help to notice what I missed (the “why” behind my failures, not only the outward result)?
-> I failed to ask for the help to notice what I missed behind my failures.
+- Have I failed to trust God’s help enough to bring my failures to the light rather than covering them?
+> I failed to trust God’s help enough to bring my failures to the light rather than covering them.
 
-# Review (I failed to examine my thoughts, words, deeds, and omissions)
+# Review (Look Back at My Day)
 
 - **Category:** IGNATIAN_EXAMEN
 - **Framework:** REVIEW_OF_CONSCIENCE
-- **Description:** I review the day hour by hour, examining my interior movements and my conduct—thoughts, words, deeds/acts, and what I omitted.
+- **Description:** I review my day from the time I woke up until now. I look at three parts in this order: my thoughts, then my words, then my actions.
 
 ### 1
-- Have I failed to pause and review my day seriously in God’s presence?
-> I failed to pause and review my day seriously in God’s presence.
+- Have I failed to review my day hour by hour (or period by period) from when I rose until now?
+> I failed to review my day hour by hour (or period by period) from when I rose until now.
 
 ### 2
-- Have I failed to examine my thoughts—especially where I entertained, encouraged, or consented to what was not good?
-> I failed to examine my thoughts, especially where I entertained, encouraged, or consented to what was not good.
+- Have I failed to examine my thoughts in the right order—first thoughts, then words, then deeds?
+> I failed to examine my thoughts in the right order—first thoughts, then words, then deeds.
 
 ### 3
-- Have I failed to examine my words—where I spoke with fault (e.g., without truth, reverence, charity, or self-control)?
-> I failed to examine my words where I spoke with fault.
+- Have I failed to examine my words honestly (speech with fault, carelessness, or lack of truth/charity)?
+> I failed to examine my words honestly (speech with fault, carelessness, or lack of truth/charity).
 
 ### 4
-- Have I failed to examine my acts/deeds—where I did what I knew opposed God’s will?
-> I failed to examine my acts/deeds where I did what I knew opposed God’s will.
+Have I failed to examine my deeds/acts and omissions where I did what I knew opposed God’s will, or failed to do the good I knew I should?
+> I failed to examine my deeds/acts and omissions where I did what I knew opposed God’s will, or failed to do the good I knew I should.
 
-### 5
-- Have I failed to examine my omissions—the good I should have done but neglected?
-> I failed to examine my omissions—the good I should have done but neglected.
-
-### 6
-- Have I failed to identify the concrete sin or defect that returned (what needs amendment, not just vague regret)?
-> I failed to identify the concrete sin or defect that returned.
-
-# Contrition (I failed to be truly sorry and to desire change)
+# Contrition (Ask Forgiveness)
 
 - **Category:** IGNATIAN_EXAMEN
 - **Framework:** CONTRITION
-- **Description:** I ask for true sorrow for sin and for the grace to be willing to turn away.
+- **Description:** I ask God to forgive me for the faults I see in my review, with humility.
 
 ### 1
-- Have I failed to feel sorrow for my failures because they offend God (not only because they inconvenienced me or had consequences)?
-> I failed to feel sorrow for my failures because they offend God.
+- Have I failed to ask God’s pardon for my faults?
+> I failed to ask God’s pardon for my faults.
 
 ### 2
-- Have I failed to ask forgiveness honestly, without minimizing, excusing, or blaming others?
-> I failed to ask forgiveness honestly without minimizing, excusing, or blaming others.
+- Have I failed to respond to what I recognized with humility, instead of excusing myself or blaming others?
+> I failed to respond to what I recognized with humility, instead of excusing myself or blaming others.
 
 ### 3
-- Have I failed to desire change—so that I wanted to stop repeating the same sin or defect?
-> I failed to desire change so that I wanted to stop repeating the same sin or defect.
+- Have I failed to let my awareness of sin lead me to real repentance, not only to regret about consequences?
+> I failed to let my awareness of sin lead me to real repentance, not only to regret about consequences.
 
-# Resolution (I failed to purpose amendment)
+# Resolution (Make a New Plan)
 
 - **Category:** IGNATIAN_EXAMEN
 - **Framework:** RESOLUTION
-- **Description:** I close by making a concrete resolution—what I will do differently—so amendment follows the examen.
+- **Description:** I make a plan to do better—choosing one change I will try to make with God’s help tomorrow.
 
 ### 1
-- Have I failed to propose a specific plan to improve tomorrow (not just “try harder”)?
-> I failed to propose a specific plan to improve tomorrow.
+- Have I failed to resolve, with God’s grace, to amend my life?
+> I failed to resolve, with God’s grace, to amend my life.
 
 ### 2
-- Have I failed to decide how I will avoid the usual occasions that lead me into the same failures?
-> I failed to decide how I will avoid the usual occasions that lead me into the same failures.
+- Have I failed to turn my review into a concrete direction for improvement tomorrow (not just awareness of failure)?
+> I failed to turn my review into a concrete direction for improvement tomorrow (not just awareness of failure).
 
 ### 3
-- Have I failed to commit myself to begin again quickly if I fall (rather than giving up)?
-> I failed to commit myself to begin again quickly if I fall.
-
-### 4
-- Have I failed to ask God for the grace to carry out my resolution?
-> I failed to ask God for the grace to carry out my resolution.
+- I failed to close with the Our Father?
+> I failed to close with the Our Father.
