@@ -1,9 +1,9 @@
 ---
 producer: Magisterium.com
 name: Standard Examination
-version: 3.0.2
+version: 3.0.3
 description: A calm, sincere check of your life before God, so you can come to confession with clarity, repentance, and a desire to change.
-color: #5C6BC0
+color: #ccaa6a
 ---
 
 # God (faith, prayer, reverence)
