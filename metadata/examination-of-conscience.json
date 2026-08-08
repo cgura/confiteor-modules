@@ -2,7 +2,7 @@
   "name": "Standard Examination",
   "producer": "Magisterium.com",
   "description": "A calm, sincere check of your life before God, so you can come to confession with clarity, repentance, and a desire to change.",
-  "version": "3.0.2",
+  "version": "3.0.3",
   "mdUrl": "https://raw.githubusercontent.com/cgura/confiteor-modules/main/library/examination-of-conscience.md",
   "jsonUrl": ""
 }
