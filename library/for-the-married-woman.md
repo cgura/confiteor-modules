@@ -169,42 +169,51 @@ Do I not care well enough for myself ?
 Am I not open to where and how God may call me to serve him?
 > I am not open to where and how God may call me to serve him.
 
-# Gluttony: overconsumption, usually of food or drink
+# Gluttony
 
-- **Category:** CUSTOM
-- **Framework:** CUSTOM
+- **Category:** SEVEN_CAPITAL_SINS
+- **Framework:** CAPITAL_SINS
+- **Description:** overconsumption, usually of food or drink
 
 ### 1
-Do I eat until I am satisfied, or do I continue until I am full or more?
-> I eat until I am satisfied, or do I continue until I am full or more.
+Do I eat until I am full or more instead of just being satified?
+> I eat until full or more instead of just being satisfied.
+- **Applicable To:** MARRIED
 
 ### 2
-What attitude do I take toward alcohol and tobacco?
-> I What attitude do I take toward alcohol and tobacco.
+Do I drink alcohol and/or use tobacco more than I should?
+> I drink alcohol and/or use tobacco more than I should.
+- **Applicable To:** MARRIED
 
 ### 3
 Do I hoard what I have (food or otherwise)?
 > I hoard what I have (food or otherwise).
+- **Applicable To:** MARRIED
 
 ### 4
-What keeps me from giving what I can ?
-> I What keeps me from giving what I can.
+Do I not give what I can?
+> I do not give what I can.
+- **Applicable To:** MARRIED
 
 ### 5
-How healthy is my relationship with my work or hobbies?
-> I How healthy is my relationship with my work or hobbies.
+Do I have an unhealthy relationship with my work or hobbies?
+> I have an unhealthy relationship with my work or hobbies.
+- **Applicable To:** MARRIED
 
 ### 6
 Do I use more than my share of our common time, energy or money?
 > I use more than my share of our common time, energy or money.
+- **Applicable To:** MARRIED
 
 ### 7
-Is the entertainment I engage with and the degree to which I engage with it in line with the faith I profess?
-> I Is the entertainment I engage with and the degree to which I engage with it in line with the faith I profess.
+The entertainment I engage with and the degree to which I engage with it is not in line with the faith I profess?
+> The entertainment I engage with and the degree to which I engage with it is not in line with the faith I profess.
+- **Applicable To:** MARRIED
 
 ### 8
-Am I able to self-moderate?
-> I am able to self-moderate.
+Am I not able to self-moderate?
+> I am not able to self-moderate.
+- **Applicable To:** MARRIED
 
 # Anger (or Wrath)
 
