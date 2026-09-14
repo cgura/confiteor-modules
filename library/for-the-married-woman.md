@@ -160,14 +160,17 @@ Do I compare the size of my family with others’?
 ### 6
 Do I not recognize and appreciate the gifts I’ve been given?
 > I do not recognize and appreciate the gifts I’ve been given.
+- **Applicable To:** MARRIED
 
 ### 7
 Do I not care well enough for myself ?
 > I do not care well enough for myself.
+- **Applicable To:** MARRIED
 
 ### 8
 Am I not open to where and how God may call me to serve him?
 > I am not open to where and how God may call me to serve him.
+- **Applicable To:** MARRIED
 
 # Gluttony
 
@@ -280,6 +283,7 @@ When something around our home needs to be done, do I not respond and/or wait to
 ### 3
 Do I not use my leisure time in a way that restores and rejuvenates me?
 > I do not use my leisure time in a way that restores and rejuvenates me.
+- **Applicable To:** MARRIED
 
 ### 4
 Do I not make time for God in prayer?
